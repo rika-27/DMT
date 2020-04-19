@@ -6,7 +6,7 @@ code: SPAM_HAM.ipynb
 Dataset: smsCollection.csv
 </pre>
 
-## Titanic Kaggle Competition Task 2a
+## Titanic Kaggle Competition Task 2
 <pre>
 code: Titanic_MLP.ipynb, Titanic_SVM.ipynb
 Dataset: titanic.zip
